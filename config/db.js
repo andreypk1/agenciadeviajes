@@ -1,6 +1,6 @@
 import Sequelize from 'sequelize';
 
-const db = new Sequelize('bj9xhxwndehyq7iehber', 'uexgucacehk2wmma', 'uexgucacehk2wmma', {
+const db = new Sequelize('bj9xhxwndehyq7iehber', 'uexgucacehk2wmma', '8TA6YerT7P4vneMzKohg', {
   host: 'bj9xhxwndehyq7iehber-mysql.services.clever-cloud.com',
   port: '3306',
   dialect: 'mysql',
