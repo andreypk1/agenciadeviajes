@@ -1,7 +1,7 @@
 import Sequelize from 'sequelize';
 
-const db = new Sequelize('agenciadeviajes', 'root', '', {
-  host: '127.0.0.1',
+const db = new Sequelize('bj9xhxwndehyq7iehber', 'uexgucacehk2wmma', 'uexgucacehk2wmma', {
+  host: 'bj9xhxwndehyq7iehber-mysql.services.clever-cloud.com',
   port: '3306',
   dialect: 'mysql',
   define: {
